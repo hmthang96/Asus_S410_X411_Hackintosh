@@ -32,6 +32,10 @@
 		<data>
 		Uf02YX9B8ifK8F/fMFtLZvBu1AP3qhl19Se0U2vVvZI=
 		</data>
+		<key>ACPI\ssdt-rmne.aml</key>
+		<data>
+		BLqEalaM4xSOefuQwxu44ASGIrrNhGsox1d4/Ugn5jg=
+		</data>
 		<key>Drivers\HfsPlus.efi</key>
 		<data>
 		YZNfOa7Vd9ad+WYoL5P9KIamEcJm33rI8QVYttLXHXg=
@@ -312,6 +316,10 @@
 		<data>
 		FSq9Z+piIXMUF1lrT4KU4mS3mVJ5a8AxokoZC3WkZBA=
 		</data>
+		<key>Kexts\NullEthernetInjector.kext\Contents\Info.plist</key>
+		<data>
+		vjbyrEQ1e2hXC/CBjTw60fkNcXazlioh+X0jrlkkf60=
+		</data>
 		<key>Kexts\SMCBatteryManager.kext\Contents\Info.plist</key>
 		<data>
 		0vnYSQpvEc2Y/ECskvyKjH3jlNRxZAayJU2sA6qzwPQ=
@@ -498,11 +506,11 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		D75tOLo3nfXzsfHkwAyWsuvbLULJRT8otobVJfMbl6w=
+		d9cFvTjtS6QXZHBDapXlVYZ+ZrYRYH/P/6iPvjpD0u4=
 		</data>
 		<key>oldConfig.plist</key>
 		<data>
-		D75tOLo3nfXzsfHkwAyWsuvbLULJRT8otobVJfMbl6w=
+		i/IePXvbsPRnzwKrol+CV+VtA2TK93l4wrMHYRZ+Jyg=
 		</data>
 	</dict>
 	<key>Version</key>
