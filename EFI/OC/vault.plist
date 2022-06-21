@@ -4,13 +4,25 @@
 <dict>
 	<key>Files</key>
 	<dict>
+		<key>ACPI\FixShutdown-USB-SSDT.aml</key>
+		<data>
+		PaGGtfMtTNrZWs9C8Qc4ndE8W6WzSdaKyaQre0mJE00=
+		</data>
+		<key>ACPI\SSDT-ALS0.aml</key>
+		<data>
+		H0Hk+ySlB6bkka+YF0qFleKt34olFABlSCgjoWKVWvU=
+		</data>
+		<key>ACPI\SSDT-BATT.aml</key>
+		<data>
+		k/XzVsmcYrkyOYtw3juP4OrL3LhFh6xQZHdzL8MmnhU=
+		</data>
+		<key>ACPI\SSDT-DMAC.aml</key>
+		<data>
+		oDvb7u6QaSRx9H71U6mr3mB0NVhasF/aZ+syOaEUqcE=
+		</data>
 		<key>ACPI\SSDT-EC-USBX-LAPTOP.aml</key>
 		<data>
 		2+ZpKos3R/sY8msfEun+PpbQ0JZL6nHt8PnVyzf7op4=
-		</data>
-		<key>ACPI\SSDT-EC-USBX.aml</key>
-		<data>
-		TS5NB+MIcpyWFOPRmMzKa9JXON7ORSKFjxLSH9ljzBs=
 		</data>
 		<key>ACPI\SSDT-GPI0.aml</key>
 		<data>
@@ -24,13 +36,25 @@
 		<data>
 		cVMlcCw6sn4eLFavzim2BKGll4jkNKu1bvEwyUZmnKE=
 		</data>
+		<key>ACPI\SSDT-PMC.aml</key>
+		<data>
+		VD5TNKqg0LLJqpch0m4eUh/sChhl7f+G8JZ2FZzpmHM=
+		</data>
 		<key>ACPI\SSDT-PNLF.aml</key>
 		<data>
 		gihU7Zj6xLCvuJ8Sc6c57SW6egupj1l4wtn7b59HmGk=
 		</data>
+		<key>ACPI\SSDT-RMD1.aml</key>
+		<data>
+		hIoUkaSFNIuOpBnjfo+KDYixg8dIPM3csE5mjg6LtwE=
+		</data>
 		<key>ACPI\SSDT-SBUS-MCHC.aml</key>
 		<data>
 		Uf02YX9B8ifK8F/fMFtLZvBu1AP3qhl19Se0U2vVvZI=
+		</data>
+		<key>ACPI\dsdt.aml</key>
+		<data>
+		bYPkAK6RRbc6rhGyZbJqZ8pYz7NCM/+kZSCE6KjXZjg=
 		</data>
 		<key>ACPI\ssdt-rmne.aml</key>
 		<data>
@@ -122,7 +146,7 @@
 		</data>
 		<key>Kexts\CPUFriendDataProvider.kext\Contents\Info.plist</key>
 		<data>
-		bTgcRFX92zCH+AXPzd0fiTq1SQ/04ylLamcQzmk2H/w=
+		KFPq6X9SgxA+IIx8pK7YDXXVfiGiwRjVMuwZ1xVtKDA=
 		</data>
 		<key>Kexts\CpuTscSync.kext\Contents\Info.plist</key>
 		<data>
@@ -142,11 +166,11 @@
 		</data>
 		<key>Kexts\FeatureUnlock.kext\Contents\Info.plist</key>
 		<data>
-		EVhvAmn7eNR2/I6q97JtPWpMs5N5/kpot5Tlx4xpMoM=
+		O3Nd6AApBIuc1wfJS9dY/A4Vpkuz8kbQwtFUD3a84yg=
 		</data>
 		<key>Kexts\FeatureUnlock.kext\Contents\MacOS\FeatureUnlock</key>
 		<data>
-		ewKMGiQl3jP/E2L/JlkQfr3E9R3hwjWtQQmkFGDTQS8=
+		yXu8JMtNlaCgF+RCr0G5g+4X0B1tkLYmHyXpXdued80=
 		</data>
 		<key>Kexts\HibernationFixup.kext\Contents\Info.plist</key>
 		<data>
@@ -332,14 +356,6 @@
 		<data>
 		5mu9V+XG7w3bw6blH2j+h12EcJtz1HcuHBkyafKonks=
 		</data>
-		<key>Kexts\SMCLightSensor.kext\Contents\Info.plist</key>
-		<data>
-		NWHXaSachMrZc64geXcPOJ5A9JJlzoFgftOdK8QqoY0=
-		</data>
-		<key>Kexts\SMCLightSensor.kext\Contents\MacOS\SMCLightSensor</key>
-		<data>
-		YpY87XFHipgAE55U7PLOiyfmZ9PlD/Wt6tRRbOszoNw=
-		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\Info.plist</key>
 		<data>
 		YwOEcA5VUUgXbIcRWVbteY5fheRDUQ14J2mytBYFimo=
@@ -446,35 +462,31 @@
 		</data>
 		<key>Kexts\VoodooPS2Controller.kext\Contents\Info.plist</key>
 		<data>
-		SWWDDX5OKPtb4MXj5LUiCK31POq44fEPCUh2GLBHy6k=
+		MKkXWpX10+em6wOFXNt+cQokHpW6i3IridwbVetY5Cs=
 		</data>
 		<key>Kexts\VoodooPS2Controller.kext\Contents\MacOS\VoodooPS2Controller</key>
 		<data>
-		qjxxlBYNS2+HKUlBzq2l+nofevDBSKJSWSAzVIEuBWM=
+		gdGFDXbN2JL3Uyh1/ioHmGgvUsL4HRf2FhX+Hdyd2T0=
+		</data>
+		<key>Kexts\VoodooPS2Controller.kext\Contents\PlugIns\VoodooInput.kext\Contents\Info.plist</key>
+		<data>
+		9+tmvJXgr6O3uX5+5i8PBoalP/0//8fZZxkPAhw7pSI=
+		</data>
+		<key>Kexts\VoodooPS2Controller.kext\Contents\PlugIns\VoodooInput.kext\Contents\MacOS\VoodooInput</key>
+		<data>
+		Mjy1WLQc8o95cSaz7jeYDCs93bcEXVkOxbepOaJXBzI=
+		</data>
+		<key>Kexts\VoodooPS2Controller.kext\Contents\PlugIns\VoodooInput.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\VoodooPS2Controller.kext\Contents\PlugIns\VoodooPS2Keyboard.kext\Contents\Info.plist</key>
 		<data>
-		xImkQszlooVFZxSS0tMQXS7XooNLE+ZgWeRhOCGRgmY=
+		0R/rHz5+Uu1zi+ZK9uIi7hnrgKN6MkzUeqo14r/Rpjg=
 		</data>
 		<key>Kexts\VoodooPS2Controller.kext\Contents\PlugIns\VoodooPS2Keyboard.kext\Contents\MacOS\VoodooPS2Keyboard</key>
 		<data>
-		c27QMrY0d5q8e6Xx0pqNe3Chx+8TLI/Jevyy910oVTY=
-		</data>
-		<key>Kexts\VoodooPS2Controller.kext\Contents\PlugIns\VoodooPS2Mouse.kext\Contents\Info.plist</key>
-		<data>
-		6kD33lPpt5gHd6PAMINH9ivchilm1L75VdG0uXe0GRs=
-		</data>
-		<key>Kexts\VoodooPS2Controller.kext\Contents\PlugIns\VoodooPS2Mouse.kext\Contents\MacOS\VoodooPS2Mouse</key>
-		<data>
-		jEznk7GcfzZW88kzYpPMnjUc8L8Dfv74CqMdrQjxY48=
-		</data>
-		<key>Kexts\VoodooPS2Controller.kext\Contents\PlugIns\VoodooPS2Trackpad.kext\Contents\Info.plist</key>
-		<data>
-		7kY0YMLfYsqWAmzC9oL9+pglwBCMa80TV/9fwt9XdIg=
-		</data>
-		<key>Kexts\VoodooPS2Controller.kext\Contents\PlugIns\VoodooPS2Trackpad.kext\Contents\MacOS\VoodooPS2Trackpad</key>
-		<data>
-		296BeH44J1ET+1ZnJ8tw1y7TVIiNrAMUPsL33g4wR9g=
+		dfjmRWp7O2V9eYuD9+4wR8W0fy6ujOzVGsYqIK+d7oA=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\Info.plist</key>
 		<data>
@@ -506,11 +518,11 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		OSbhgcDKvqaWExAtictZuXtlfsIIJ1+frX9XWfNgFIs=
+		02ZkA55p3BanugAfC4JZsrnlFrMxSSSmR099EAR+O4w=
 		</data>
 		<key>oldConfig.plist</key>
 		<data>
-		d9cFvTjtS6QXZHBDapXlVYZ+ZrYRYH/P/6iPvjpD0u4=
+		rQB8hS31j18xov1WOzjo/EreZC8S7GoXqik90IokH+s=
 		</data>
 	</dict>
 	<key>Version</key>
